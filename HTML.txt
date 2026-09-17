@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+
+    <h1>Welcome to HTML</h1>
+    <p>This is my first HTML program.</p>
+
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Music</li>
+        <li>Sports</li>
+    </ul>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
